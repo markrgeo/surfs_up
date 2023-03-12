@@ -10,6 +10,9 @@ The standard deviation gives us a sense as to how spread out the daily temperatu
 We also have the temperatures listed for both the top 75% of all recordings and the lower 25%. These give us an idea of how hot or cold Oahu is at those extremes. The data also provides us with the temperature at the half-way point of our data set. This number which is at the 50% mark of all recorded data is a good comparison to our average, and is a mere fraction different from our average number.  
 The statistics allow us to make comparisons to June and December in isolation, as well as comparing the two months to each other as the same statistical data is supplied for each.
 
+june_temps_data.png
+
+dec_temps_data.png
 
 Results of the study: 
 The results provide us with several points of interest for the possibility of a business venture in Oahu. 
